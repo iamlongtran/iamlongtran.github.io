@@ -15,9 +15,10 @@ redirect_from:
 
 * PhD student
 * B.S. in Chemical Engineering, Drexel University, 2022
+
 *with minors in Math and Computer Science*
 
 **Research Experience**
 
 ======
-* Researcher Intern - Merk || West Point, PA
+* Researcher Intern - Merk - West Point, PA
