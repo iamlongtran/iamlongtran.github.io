@@ -14,11 +14,14 @@
   padding-left: 2em;
   padding-right: 2em;
   font-family: $sans-serif;
-  -webkit-animation: none; //intro 1ms both;
-          animation: none; //intro 1ms both;
-  -webkit-animation-delay: none; //1ms;
-          animation-delay: none; //1ms;
-
+  -webkit-animation: none !important; //intro 1ms both;
+          animation: none !important; //intro 1ms both;
+  -webkit-animation-delay: none !important; //1ms;
+          animation-delay: none !important; //1ms;
+  -webkit-transform: none !important;
+          transform: none !important;
+  -webkit-transition-property: none !important;
+          transition-property: none !important;
   @include breakpoint($large) {
     padding-left: 1em;
     padding-right: 1em;
