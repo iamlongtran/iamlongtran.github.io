@@ -5,5 +5,5 @@ permalink: /misc/
 author_profile: true
 ---
 
-testing my other [site](cs.drexel.edu/~lht29) for now
+testing my other [site](https://www.cs.drexel.edu/~lht29/) for now
 
