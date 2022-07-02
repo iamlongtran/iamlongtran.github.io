@@ -9,14 +9,15 @@ redirect_from:
 
 {% include base_path %}
 
-Education
+**Education**
 
 ======
 
 * PhD student
-* B.S. in Chemical Engineering, Drexel University, 2022 *with minors in Math and Computer Science*
+* B.S. in Chemical Engineering, Drexel University, 2022
+*with minors in Math and Computer Science*
 
-Work experience
+**Research Experience**
 
 ======
-* Merck - Researcher Intern || West Point, PA
+* Researcher Intern - Merk || West Point, PA
