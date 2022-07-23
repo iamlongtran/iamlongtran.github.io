@@ -97,7 +97,7 @@ set visualbell
 "set cmdheight=2
 
 	" Display line numbers on the left
-"set number
+set number
 
 	" Quickly time out on keycodes, but never time out on mappings
 set notimeout ttimeout ttimeoutlen=200
@@ -160,3 +160,11 @@ imap <F1> <Esc>
 	" Show tabs, newlines, etc
 map <F3> :set invlist<CR>
 
+"------------------------------------------------------------
+"render whitespaces ~~ VSCode
+"
+set list
+set listchars=tab:›\ ,extends:»,precedes:«,trail:·,nbsp:░
+set showbreak=↪\
+"set listchars+=nbsp:␣
+"set listchar+=eol:↲
