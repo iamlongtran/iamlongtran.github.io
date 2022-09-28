@@ -5,7 +5,7 @@ permalink: /publications/
 author_profile: true
 ---
 
-My Google Scholar profile [here](https://scholar.google.com)
+My Google Scholar profile [here](https://scholar.google.com/citations?user=2Sl4VGcAAAAJ&hl=en)
 
 ## Publications and Preprints
 
