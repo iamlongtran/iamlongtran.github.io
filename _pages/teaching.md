@@ -1,3 +1,4 @@
+<!---
 ---
 layout: archive
 title: "Teaching"
@@ -6,3 +7,4 @@ author_profile: true
 ---
 
 I have taught some math
+-->

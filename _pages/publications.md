@@ -1,3 +1,4 @@
+<!---
 ---
 layout: archive
 title: "Publications"
@@ -10,4 +11,4 @@ My Google Scholar profile [here](https://scholar.google.com/citations?user=2Sl4V
 ## Publications and Preprints
 
 - Qiao Z, **Tran L**, Parks J, Zhao Y, Hai N, Zhong Y, Ji H-F (2021). Highly stretchable gelatin-polyacrylamidehydrogel for potential transdermal drug release.Nano Select. https://doi.org/10.1002/nano.202000087
-
+-->

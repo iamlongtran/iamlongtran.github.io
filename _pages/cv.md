@@ -1,3 +1,4 @@
+<!---
 ---
 #layout: archive
 title: "CV"
@@ -18,4 +19,6 @@ redirect_from:
 
 
 **Research Experience**  
-* Researcher Intern - Merk | West Point, PA
+* Researcher Intern - Merck | West Point, PA
+-->
+
